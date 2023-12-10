@@ -1,3 +1,7 @@
+#this is my the final version of my course project
+i have used different tools to create and perfect this design 
+underneath are some simple commands that you can run. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
